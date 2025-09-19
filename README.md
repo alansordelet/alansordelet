@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Alan Sordelet  
+# Hello there 👋 I'm Alan Sordelet  
 🎮 Gameplay & AI Programmer · C++ · Unreal Engine 5 · Unity · Game AI  
 
 ![C++](https://img.shields.io/badge/C++-17%2F20-blue) 
