@@ -63,6 +63,7 @@ Currently continuing development beyond the school deadline:
 - 👹 Designed and implemented the Big Boss AI (Behavior Trees, Tasks, Animations) to deliver the final boss fight 
 
 [Repository →](https://github.com/GameAcademy84/Project-Wild)
+
 ---
 
 ### **Crush Cars — School Project** 🎮  
