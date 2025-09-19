@@ -133,6 +133,7 @@ Currently continuing development beyond the school deadline:
 ![](https://github-readme-stats.vercel.app/api?username=alansordelet&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alansordelet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alansordelet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://alansordeletas.wixsite.com/game/portfolio)
 
 ---
 
