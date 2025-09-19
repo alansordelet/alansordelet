@@ -1,3 +1,6 @@
+Hi there 👋 I'm Alan Sordelet
+🎮 Gameplay & AI Programmer · C++ · Unreal Engine 5 · Unity · Game AI
+
 # 💫 About Me:
 🛠️ I’m currently working on:<br>Developing gameplay systems and AI for 3D action/adventure prototypes in Unreal Engine and Unity.<br><br>🤝 I’m looking to collaborate on:<br>Game projects that focus on AI-driven mechanics, combat systems, or immersive player experiences.<br><br>🧠 I’m looking for help with:<br>Optimizing AI decision-making and multiplayer gameplay features.<br><br>🌱 I’m currently learning:<br>Advanced game AI techniques (Behavior Trees, EQS, Genetic Algorithms) and improving software architecture patterns in C++ and C#.<br><br>💬 Ask me about:<br>Gameplay programming, AI behavior systems, or how to structure projects in Unreal Engine and Unity.<br><br>⚡ Fun fact: Playing games often turns into a mini research session on how the AI works.
 
