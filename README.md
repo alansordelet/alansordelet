@@ -21,21 +21,31 @@
 
 ---
 
-## 🔨 Current Projects
-### **ImEngine — Custom C++ Game Engine**  
-- Modular architecture: Engine + Editor (ImGui)  
-- Vulkan-based renderer (in progress)  
-- ECS prototype, event system, serialization  
-- Tools-first approach with live editing support  
+---
+
+## 🔨 Current Project
+
+### **Wild-31 — School Project (Ongoing Improvements)** 🎮  
+*Beat down, crush, and take down the mobsters and the Big Boss who silence and oppress the people.*  
+
+Currently continuing development beyond the school deadline:  
+- 🛠️ Refactoring systems for cleaner and more stable features  
+- 🤖 Improving AI behavior (smarter decision-making, smoother combat flow)  
+- 🎮 Enhancing overall player experience and gameplay balance  
+
+[Repository →](https://github.com/GameAcademy84/Project-Wild)
 
 ---
 
-### **Wild-31 — School Project** 🎮  
-*Beat down, crush, and take down the mobsters and the Big Boss who silence and oppress the people.*  
-- Designed the game code architecture (entities, class hierarchy, etc.)  
-- Built tools for animation collider management + input binding  
-- Developed Big Boss AI (Behavior Trees, Tasks, Animations)  
+### **Wild-31 — School Project (Deadline Work)** 🎮  
+*Original 8-week development sprint with a small team of designers and programmers.*  
 
+- 🤖 Implemented enemy AI (Behavior Trees, Tasks, EQS) with coordinated combat logic  
+- ⚔️ Developed the combat slot/token system to manage multiple attackers fairly  
+- 🎭 Handled animation blending, motion warping, and transitions for combat flow  
+- 👹 Designed and implemented the Big Boss AI (Behavior Trees, Tasks, Animations) to deliver the final boss fight 
+
+[Repository →](https://github.com/GameAcademy84/Project-Wild)
 ---
 
 ### **Crush Cars — School Project** 🎮  
@@ -43,17 +53,20 @@
 - Gameplay systems for combat karting  
 - Unique 1930s cartoon-inspired atmosphere  
 
+[Repository →](https://github.com/GameAcademy84/CrushCars)
+
 ---
 
 ## 🧰 Tech Stack
+
 | Domain         | Tools / Tech |
 |----------------|--------------|
-| **Languages**  | C++, C#, Python |
-| **Engines**    | Unreal Engine 5, Unity, SFML |
-| **Rendering**  | OpenGL, Vulkan (in progress) |
-| **AI / ML**    | NumPy, Pandas, PyTorch, Scikit-learn |
-| **Tools**      | Git, GitHub, CMake, ImGui, Wwise |
-| **Assets**     | Blender, Photoshop |
+| **Languages**  | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Engines**    | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-C++-brightgreen?style=for-the-badge) |
+| **Rendering**  | ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) |
+| **AI / ML**    | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| **Tools**      | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
+| **Assets**      | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) |
 
 ---
 
