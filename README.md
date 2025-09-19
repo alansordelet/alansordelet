@@ -5,12 +5,10 @@
 
 ![C++](https://img.shields.io/badge/C++-17%2F20-blue) 
 ![C#](https://img.shields.io/badge/C%23-Unity-purple) 
-![Python](https://img.shields.io/badge/Python-3-yellow)  
+![Python](https://img.shields.io/badge/Python-3-yellow) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5-black) 
-![Unity](https://img.shields.io/badge/Unity-2023-green)  
+![Unity](https://img.shields.io/badge/Unity-2023-green) 
 ![OpenGL](https://img.shields.io/badge/OpenGL-Rendering-lightblue) 
-
----
 
 </div>
 
